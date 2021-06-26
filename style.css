@@ -478,7 +478,7 @@ width: 50px;
 }
 
 .integrations .proctor-button{
-    width: 250px;
+    font-size: 15px;
 }
 
 .icon-container{
@@ -500,7 +500,7 @@ width: 50px;
 
 
 .feature-item-container{
-    margin: 5px -30px;
+    margin: 5px -25px;
 
 }
 
@@ -514,10 +514,10 @@ width: 50px;
     padding: 10px 10px;
 }
 
- .nav-tabs  .nav-link{
+  .nav-tabs  .nav-link{
     display: none;
 }
- 
+  
 .nav-tabs  .nav-link.active {
     display: inline-block;
     margin: 0px auto;
@@ -525,7 +525,7 @@ width: 50px;
 } 
 
  .toggle-item{
-    margin: 0px 10px;
+    margin: 0px 5px;
     border: 0px;
 }
 .page-link{
@@ -535,6 +535,14 @@ width: 50px;
 .page-link:hover{
     background-color: #fff;
 }
+
+
+.learnmore-btn{
+    width: 250px;
+    height: 40px;
+    font-size: 15px;
+}
+
 
 
 
