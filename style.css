@@ -468,7 +468,7 @@ width: 50px;
 }
 
 .landing-item-container{
- margin: 0px -50px;
+ margin: 0px 22px;
     
 }
 
@@ -507,7 +507,7 @@ width: 50px;
 
  
 .landing-item {
-    margin: 2px 70px;
+    margin: 2px 0px;
 }
 
 .features,.clients,.integrations{
