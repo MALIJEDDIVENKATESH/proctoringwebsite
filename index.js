@@ -1,7 +1,7 @@
-var links = Array.from(document.getElementsByClassName("page-links nav-links"));
+var links = Array.from(document.getElementsByClassName("page-link nav-link"));
 var length = links.length;
 
-Array.from(document.getElementsByClassName("toggle-links")).forEach(
+Array.from(document.getElementsByClassName("toggle-link")).forEach(
   (item, index) => {
     item.addEventListener("click", (e) => {
       e.stopPropagation();

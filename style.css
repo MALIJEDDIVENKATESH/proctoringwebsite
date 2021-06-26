@@ -439,10 +439,14 @@ width: 50px;
     justify-content: center;
     align-items: center;
     position: fixed;
-    bottom: -35px;
+    bottom: 10%;
     left: -150px;
     z-index: 100;
 
+}
+
+.scrollbutton{
+    margin: 0px 3px;
 }
 
 
@@ -499,6 +503,8 @@ width: 50px;
     margin: 5px -30px;
 
 }
+
+
  
 .landing-item {
     margin: 2px 70px;
@@ -519,7 +525,7 @@ width: 50px;
 } 
 
  .toggle-item{
-    margin: 0px 20px;
+    margin: 0px 10px;
     border: 0px;
 }
 .page-link{
