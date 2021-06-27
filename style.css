@@ -274,8 +274,8 @@ width: 50px;
     border: none;
 }
 .nav-tabs .nav-link.active{
-    border-bottom: 2px solid blue;
-    color: blue;
+    border-bottom: 2px solid rgb(37, 164, 223);
+    color: rgb(37, 164, 223);
 
 }
 
@@ -297,7 +297,6 @@ width: 50px;
 .pagination .page-link:focus{
     outline: 0px !important;
     box-shadow: none !important; 
-    color: blue;
  }
  
 
